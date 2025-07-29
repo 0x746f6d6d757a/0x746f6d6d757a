@@ -11,7 +11,7 @@
 
 I'm someone who enjoys writing clean, optimized code. I'm currently waiting to begin a school program where I'll dive deep into ***Software Development***. One day, I hope to open a professional space, a hub where developers of all kinds can collaborate, build projects together, and even earn compensation for their work.
 
-Right now I built a little shop with a friend of mine ona discord server, if you are interested here's the link!
+Right now I built a little shop with a friend of mine on a discord server, if you are interested here's the link!
 </br>
 https://discord.gg/UdGMEYGCYw
 
@@ -35,10 +35,9 @@ https://discord.gg/UdGMEYGCYw
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tommuz&show_icons=true&theme=tokyonight&hide_title=true" alt="Alzyy's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommuz&layout=compact&theme=tokyonight" alt="Top Languages"/>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tommuz&theme=tokyo-night&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=0x746f6d6d757a&show_icons=true&theme=tokyonight&hide_title=true" alt="Alzyy's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x746f6d6d757a&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0x746f6d6d757a&theme=tokyo-night&area=true&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 ---
