@@ -15,7 +15,7 @@ Right now I built a little shop with a friend of mine on a discord server, if yo
 </br>
 https://discord.gg/UdGMEYGCYw
 
-- 💻 I use **NodeJS** to build ***discord bots & CLI tools***
+- 💻 I use **NodeJS** to build ***discord bots***
 - 📫 Discord: `0x746f6d6d757a`; Email: `fatticcionitommaso@gmail.com`
 
 ---
