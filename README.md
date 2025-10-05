@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, I'm tommu</h1>
-<h3 align="center">Backend Developer | 🧪 Discord Bot & CLI Tool Developer</h3>
+<h3 align="center">Backend Developer | 🧪 Discord Bot Developer</h3>
 
 <p align="center">
   <a href="https://ko-fi.com/S6S11INWZ6"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" /></a>
